@@ -6,7 +6,7 @@ class Sum{
         Scanner sc=new Scanner(System.in);
                 a=sc.nextInt();
                 b=sc.nextInt();
-        System.out.println("The sum of the two numbers is:"+(a+b));
-        
+        System.out.println("The sum of the two numbers :"+(a+b));
+
     }
 }
